@@ -1,12 +1,12 @@
-import Navbar from "./Components/Navbar"
-import Hero from "./Components/Hero"
-import About from "./Components/About"
-import HowItWorks from "./Components/HowItWorks"
-import WhoCanApply from "./Components/WhoCanApply"
-import Startups from "./Components/Startups"
-import Investors from "./Components/Investors"
-import CTA from "./Components/CTA"
-import Footer from "./Components/Footer"
+import Navbar from "./components/Navbar"
+import Hero from "./components/Hero"
+import About from "./components/About"
+import HowItWorks from "./components/HowItWorks"
+import WhoCanApply from "./components/WhoCanApply"
+import Startups from "./components/Startups"
+import Investors from "./components/Investors"
+import CTA from "./components/CTA"
+import Footer from "./components/Footer"
 
 function App() {
   return (
